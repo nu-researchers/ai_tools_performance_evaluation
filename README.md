@@ -68,7 +68,6 @@ research_analysis/
 ├── 📂 data/
 │   ├── 📊 ai_effects_in_software_development.csv  # Main survey dataset (337 entries)
 │   ├── 📊 ai_tools_2.csv                   # AI tools performance data
-│   ├── 📊 cleaned_entries_8_to_30.csv      # Cleaned survey subset
 │   └── 📊 standings_fixed.csv              # Human baseline performance
 ├── 📂 notebooks/
 │   ├── 📓 data_analysis_ai_tools.ipynb     # AI tools analysis notebook
